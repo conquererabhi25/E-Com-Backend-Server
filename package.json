@@ -2,9 +2,9 @@
   "name": "ecom-dashboard",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node Server.js"
   },
   "author": "",
   "license": "ISC",
